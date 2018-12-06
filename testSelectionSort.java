@@ -42,7 +42,7 @@ public class testSelectionSort {
         int [] val = arr1.basicSelectionSort(arr);
         int maxVal = val [Sortedarr.length-1];
         assertEquals (10, maxVal);
-        
+        // Person 1 did this
     }
     
     public void testNegative(){
@@ -67,6 +67,7 @@ public class testSelectionSort {
            int [] val = arr1.basicSelectionSort(arr);
            int maxVal = val [Sortedarr.length-1];
            assertEquals (-2, maxVal);
+//Person 1 did this
     }
    
     public void testMixed(){
