@@ -92,6 +92,7 @@ public class testSelectionSort {
            int [] val = arr1.basicSelectionSort(arr);
            int maxVal = val [Sortedarr.length-1];
            assertEquals (9, maxVal);
+//Person 2 did this
     };
     
     
@@ -117,6 +118,7 @@ public class testSelectionSort {
            int [] val = arr1.basicSelectionSort(arr);
            int maxVal = val [Sortedarr.length-1];
            assertEquals (9, maxVal);
+//Person 2 did this
     }
 
 
